@@ -1,7 +1,7 @@
 # Site Settings
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
-lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
+lang: el # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
 permalink: /blog/:year/:month/:day/:title/
 theme: jekyll-theme-simple-texture
 
@@ -32,11 +32,11 @@ author:
   email: drakontis.panagiotis@gmail.com
   social_links:
     - name: facebook
-      url:
+      url: https://www.facebook.com/drakontispanagiotis
     - name: github
       url: https://github.com/drakontis/fermentations
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/drakontispanagiotis
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
@@ -51,5 +51,5 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. r
 paths:
   home: /
   blog: /
-  categories: /categories/
-  tags: /tags/
+  categories: /blog/categories/
+  tags: /blog/tags/
