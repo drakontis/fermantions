@@ -39,8 +39,8 @@ author:
     - name: linkedin
       url: https://www.linkedin.com/in/drakontispanagiotis
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+#  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+#  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License.
   footer_content: 2018 zimosi.gr
 
 disqus:
