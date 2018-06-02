@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: www.zimosi.gr
 baseurl: # the subpath of your site, e.g. /blog
 title: Zimosi.gr
 description: "Ας μιλήσουμε για ζυμώσεις!"
