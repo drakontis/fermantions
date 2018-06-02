@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # Site Data
-url: www.zimosi.gr
+url: #www.zimosi.gr This can cause the failure of image loading.
 baseurl: # the subpath of your site, e.g. /blog
 title: Zimosi.gr
 description: "Ας μιλήσουμε για ζυμώσεις!"
