@@ -1,0 +1,15 @@
+.image-in-text{
+  height: 10em !important;
+  float: left;
+  border-radius: 20px;
+  margin-right: 0.3em;
+}
+
+.image-in-header{
+  height: 7em !important;
+  border-radius: 20px;
+}
+
+.clear{
+  clear: both;
+}
